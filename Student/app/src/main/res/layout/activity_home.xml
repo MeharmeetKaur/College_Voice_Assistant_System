@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="10dp"
+    android:background="#8D00ACC1"
+    tools:context=".Home">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:columnCount="2"
+        android:rowCount="4">
+
+        <Button
+            android:id="@+id/recenttrends"
+            android:layout_width="160dp"
+            android:layout_height="140dp"
+            android:background="@drawable/trends">
+
+        </Button>
+        <Button
+            android:id="@+id/notice"
+            android:layout_width="160dp"
+            android:layout_height="140dp"
+            android:background="@drawable/notice">
+
+        </Button>
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/exams"
+            android:layout_width="160dp"
+            android:layout_height="140dp"
+            android:background="@drawable/exam">
+
+        </Button>
+        <Button
+            android:id="@+id/timetable"
+            android:layout_width="160dp"
+            android:layout_height="140dp"
+            android:background="@drawable/tt">
+
+        </Button>
+        <Button
+            android:id="@+id/courses"
+            android:layout_width="160dp"
+            android:layout_height="140dp"
+            android:background="@drawable/course">
+
+        </Button>
+        <Button
+            android:id="@+id/attendance"
+            android:layout_width="160dp"
+            android:layout_height="140dp"
+            android:background="@drawable/attendance">
+
+        </Button>
+        <Button
+            android:id="@+id/query"
+            android:layout_width="160dp"
+            android:layout_height="140dp"
+            android:background="@drawable/query">
+
+        </Button>
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="160dp"
+            android:layout_height="140dp"
+            android:background="@drawable/exit">
+
+        </Button>
+
+    </GridLayout>
+
+</RelativeLayout>

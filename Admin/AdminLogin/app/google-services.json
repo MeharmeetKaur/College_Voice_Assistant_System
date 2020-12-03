@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881722184828",
+    "firebase_url": "https://voice-assistant-f1338.firebaseio.com",
+    "project_id": "voice-assistant-f1338",
+    "storage_bucket": "voice-assistant-f1338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881722184828:android:79ac679296bb5a9b3aa5f9",
+        "android_client_info": {
+          "package_name": "com.example.adminlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881722184828-8ud0r8jeua8r0pbntcudqjngk6qrsvb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminlogin",
+            "certificate_hash": "8f187b168880edff7db5cc47b275e98924aa241b"
+          }
+        },
+        {
+          "client_id": "881722184828-kk6nl83l5hqd7rbg8quvg164dcgn3erg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGmPkRhiBxzkoY5o3zvNs1ptqD1bHKcCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881722184828-kk6nl83l5hqd7rbg8quvg164dcgn3erg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

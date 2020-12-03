@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">College Assistant</string>
+    <string name="title_activity_home_navigation">HomeNavigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="year">YEAR</string>
+    <string name="Class">Class</string>
+    <string-array name="Class">
+        <item>Select Year-</item>
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+    <string-array name="Division">
+        <item>Select Division</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="Department">
+        <item>Select Department</item>
+        <item>COMP</item>
+        <item>IT</item>
+        <item>ENTC</item>
+    </string-array>
+
+    <string-array name="Class_1">
+        <item>Class-</item>
+        <item>FE</item>
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+    <string-array name="Dept">
+        <item>Department-</item>
+        <item>COMP</item>
+        <item>IT</item>
+        <item>EnTC</item>
+
+    </string-array>
+    <string-array name="Days">
+        <item>Day-</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+    </string-array>
+
+    <string-array name="groupName">
+        <item>IEEE</item>
+        <item>ACM</item>
+        <item>Pictoreal</item>
+        <item>Art Circle</item>
+        <item>Sports</item>
+        <item>INC</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string-array name="Stud_Dept">
+
+        <item>Applied Science</item>
+        <item>Computer</item>
+        <item>ENTC</item>
+        <item>IT</item>
+
+    </string-array>
+
+    <string-array name="Time">
+        <item>8:00-9:00</item>
+        <item>9:00-10:00</item>
+        <item>10:00-10:15</item>
+        <item>10:15-11:15</item>
+        <item>11:15-12:15</item>
+        <item>12:15-1:00</item>
+        <item>1:00-2:00</item>
+        <item>2:00-3:00</item>
+
+    </string-array>
+
+    <string-array name="feClass">
+        <item>FE1</item>
+        <item>FE2</item>
+        <item>FE3</item>
+        <item>FE4</item>
+        <item>FE5</item>
+
+
+    </string-array>
+
+    <string-array name="CompClass">
+        <item>SE1</item>
+        <item>SE2</item>
+        <item>TE1</item>
+        <item>TE2</item>
+        <item>BE1</item>
+        <item>BE2</item>
+
+
+    </string-array>
+
+    <string-array name="EntcClass">
+        <item>SE3</item>
+        <item>SE4</item>
+        <item>TE3</item>
+        <item>TE4</item>
+        <item>BE3</item>
+        <item>BE4</item>
+
+
+    </string-array>
+
+    <string-array name="ITClass">
+        <item>SE5</item>
+        <item>TE5</item>
+        <item>BE5</item>
+    </string-array>
+
+    <string-array name="Day">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+
+    </string-array>
+
+
+    <string-array name="efeClass">
+        <item>FE</item>
+
+    </string-array>
+
+    <string-array name="eClass">
+
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+
+    </string-array>
+    <string-array name="ename">
+        <item>Unit Test</item>
+        <item>Online Exam</item>
+        <item>In-Sem</item>
+        <item>End-Sem</item>
+        <item>Practicals</item>
+    </string-array>
+
+</resources>
